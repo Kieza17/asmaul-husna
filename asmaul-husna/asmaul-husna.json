@@ -1,0 +1,699 @@
+{
+  "status": true,
+  "creator": "@Kieza17",
+  "result": [
+    {
+      "jilid": "1",
+      "asma": "Ar Rahman",
+      "arab": "الرَّحْمَنُ",
+      "id": "Yang Memiliki Mutlak sifat Pemurah",
+      "en": "The All Beneficent"
+    },
+    {
+      "jilid": "2",
+      "asma": "Ar Rahiim",
+      "arab": "الرَّحِيمُ",
+      "id": "Yang Memiliki Mutlak sifat Penyayang",
+      "en": "The Most Merciful"
+    },
+    {
+      "jilid": "3",
+      "asma": "Al Malik",
+      "arab": "الْمَلِكُ",
+      "id": "Yang Memiliki Mutlak sifat Merajai/Memerintah",
+      "en": "The King, The Sovereign"
+    },
+    {
+      "jilid": "4",
+      "asma": "Al Quddus",
+      "arab": "الْقُدُّوسُ",
+      "id": "Yang Memiliki Mutlak sifat Suci",
+      "en": "The Most Holy"
+    },
+    {
+      "jilid": "5",
+      "asma": "As Salaam",
+      "arab": "السَّلاَمُ",
+      "id": "Yang Memiliki Mutlak sifat Memberi Kesejahteraan",
+      "en": "Peace and Blessing"
+    },
+    {
+      "jilid": "6",
+      "asma": "Al Mu’min",
+      "arab": "الْمُؤْمِنُ",
+      "id": "Yang Memiliki Mutlak sifat Memberi Keamanan",
+      "en": "The Guarantor"
+    },
+    {
+      "jilid": "7",
+      "asma": "Al Muhaimin",
+      "arab": "الْمُهَيْمِنُ",
+      "id": "Yang Memiliki Mutlak sifat Pemelihara",
+      "en": "The Guardian, the Preserver"
+    },
+    {
+      "jilid": "8",
+      "asma": "Al ‘Aziiz",
+      "arab": "الْعَزِيزُ",
+      "id": "Yang Memiliki Mutlak Kegagahan",
+      "en": "The Almighty, the Self Sufficient"
+    },
+    {
+      "jilid": "9",
+      "asma": "Al Jabbar",
+      "arab": "الْجَبَّارُ",
+      "id": "Yang Memiliki Mutlak sifat Perkasa",
+      "en": "The Powerful, the Irresistible"
+    },
+    {
+      "jilid": "10",
+      "asma": "Al Mutakabbir",
+      "arab": "الْمُتَكَبِّرُ",
+      "id": "Yang Memiliki Mutlak sifat Megah,Yang Memiliki Kebesaran",
+      "en": "The Tremendous"
+    },
+    {
+      "jilid": "11",
+      "asma": "Al Khaliq",
+      "arab": "الْخَالِقُ",
+      "id": "Yang Memiliki Mutlak sifat Pencipta",
+      "en": "The Creator"
+    },
+    {
+      "jilid": "12",
+      "asma": "Al Baari’",
+      "arab": "الْبَارِئُ",
+      "id": "Yang Memiliki Mutlak sifat Yang Melepaskan(Membuat, Membentuk, Menyeimbangkan)",
+      "en": "The Maker"
+    },
+    {
+      "jilid": "13",
+      "asma": "Al Mushawwir",
+      "arab": "الْمُصَوِّرُ",
+      "id": "Yang Memiliki Mutlak sifat YangMembentuk Rupa (makhluknya)",
+      "en": "The Fashioner of Forms"
+    },
+    {
+      "jilid": "14",
+      "asma": "Al Ghaffaar",
+      "arab": "الْغَفَّارُ",
+      "id": "Yang Memiliki Mutlak sifat Pengampun",
+      "en": "The Ever Forgiving"
+    },
+    {
+      "jilid": "15",
+      "asma": "Al Qahhaar",
+      "arab": "الْقَهَّارُ",
+      "id": "Yang Memiliki Mutlak sifat Memaksa",
+      "en": "The All Compelling Subduer"
+    },
+    {
+      "jilid": "16",
+      "asma": "Al Wahhaab",
+      "arab": "الْوَهَّابُ",
+      "id": "Yang Memiliki Mutlak sifat Pemberi Karunia",
+      "en": "The Bestower"
+    },
+    {
+      "jilid": "17",
+      "asma": "Ar Razzaaq",
+      "arab": "الرَّزَّاقُ",
+      "id": "Yang Memiliki Mutlak sifat Pemberi Rejeki",
+      "en": "The Ever Providing"
+    },
+    {
+      "jilid": "18",
+      "asma": "Al Fattaah",
+      "arab": "الْفَتَّاحُ",
+      "id": "Yang Memiliki Mutlak sifat Pembuka Rahmat",
+      "en": "The Opener, the Victory Giver"
+    },
+    {
+      "jilid": "19",
+      "asma": "Al ‘Aliim",
+      "arab": "اَلْعَلِيْمُ",
+      "id": "Yang Memiliki Mutlak sifatMengetahui (Memiliki Ilmu)",
+      "en": "The All Knowing, the Omniscient"
+    },
+    {
+      "jilid": "20",
+      "asma": "Al Qaabidh",
+      "arab": "الْقَابِضُ",
+      "id": "Yang Memiliki Mutlak sifat YangMenyempitkan (makhluknya)",
+      "en": "The Restrainer, the Straightener"
+    },
+    {
+      "jilid": "21",
+      "asma": "Al Baasith",
+      "arab": "الْبَاسِطُ",
+      "id": "Yang Memiliki Mutlak sifat YangMelapangkan (makhluknya)",
+      "en": "The Expander, the Munificent"
+    },
+    {
+      "jilid": "22",
+      "asma": "Al Khaafidh",
+      "arab": "الْخَافِضُ",
+      "id": "Yang Memiliki Mutlak sifat YangMerendahkan (makhluknya)",
+      "en": "The Abaser"
+    },
+    {
+      "jilid": "23",
+      "asma": "Ar Raafi’",
+      "arab": "الرَّافِعُ",
+      "id": "Yang Memiliki Mutlak sifat YangMeninggikan (makhluknya)",
+      "en": "The Exalter"
+    },
+    {
+      "jilid": "24",
+      "asma": "Al Mu’izz",
+      "arab": "الْمُعِزُّ",
+      "id": "Yang Memiliki Mutlak sifat YangMemuliakan (makhluknya)",
+      "en": "The Giver of Honor"
+    },
+    {
+      "jilid": "25",
+      "asma": "Al Mudzil",
+      "arab": "المُذِلُّ",
+      "id": "Yang Memiliki Mutlak sifatYang Menghinakan (makhluknya)",
+      "en": "The Giver of Dishonor"
+    },
+    {
+      "jilid": "26",
+      "asma": "Al Samii’",
+      "arab": "السَّمِيعُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mendengar",
+      "en": "The All Hearing"
+    },
+    {
+      "jilid": "27",
+      "asma": "Al Bashiir",
+      "arab": "الْبَصِيرُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Melihat",
+      "en": "The All Seeing"
+    },
+    {
+      "jilid": "28",
+      "asma": "Al Hakam",
+      "arab": "الْحَكَمُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Menetapkan",
+      "en": "The Judge, the Arbitrator"
+    },
+    {
+      "jilid": "29",
+      "asma": "Al ‘Adl",
+      "arab": "الْعَدْلُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Adil",
+      "en": "The Utterly Just"
+    },
+    {
+      "jilid": "30",
+      "asma": "Al Lathiif",
+      "arab": "اللَّطِيفُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Lembut",
+      "en": "The Subtly Kind"
+    },
+    {
+      "jilid": "31",
+      "asma": "Al Khabiir",
+      "arab": "الْخَبِيرُ",
+      "id": "Yang Memiliki Mutlak sifatMaha Mengetahui Rahasia",
+      "en": "The All Aware"
+    },
+    {
+      "jilid": "32",
+      "asma": "Al Haliim",
+      "arab": "الْحَلِيمُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Penyantun",
+      "en": "The Forbearing, the Indulgent"
+    },
+    {
+      "jilid": "33",
+      "asma": "Al ‘Azhiim",
+      "arab": "الْعَظِيمُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Agung",
+      "en": "The Magnificent, the Infinite"
+    },
+    {
+      "jilid": "34",
+      "asma": "Al Ghafuur",
+      "arab": "الْغَفُورُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pengampun",
+      "en": "The All Forgiving"
+    },
+    {
+      "jilid": "35",
+      "asma": "As Syakuur",
+      "arab": "الشَّكُورُ",
+      "id": "Yang Memiliki Mutlak sifat MahaPembalas Budi (Menghargai)",
+      "en": "The Grateful"
+    },
+    {
+      "jilid": "36",
+      "asma": "Al ‘Aliy",
+      "arab": "الْعَلِيُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Tinggi",
+      "en": "The Sublimely Exalted"
+    },
+    {
+      "jilid": "37",
+      "asma": "Al Kabiir",
+      "arab": "الْكَبِيرُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Besar",
+      "en": "The Great"
+    },
+    {
+      "jilid": "38",
+      "asma": "Al Hafizh",
+      "arab": "الْحَفِيظُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Menjaga",
+      "en": "The Preserver"
+    },
+    {
+      "jilid": "39",
+      "asma": "Al Muqiit",
+      "arab": "المُقيِت",
+      "id": "Yang Memiliki Mutlak sifat Maha Pemberi Kecukupan",
+      "en": "The Nourisher"
+    },
+    {
+      "jilid": "40",
+      "asma": "Al Hasiib",
+      "arab": "الْحسِيبُ",
+      "id": "Yang Memiliki Mutlak sifat MahaMembuat Perhitungan",
+      "en": "The Reckoner"
+    },
+    {
+      "jilid": "41",
+      "asma": "Al Jaliil",
+      "arab": "الْجَلِيلُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mulia",
+      "en": "The Majestic"
+    },
+    {
+      "jilid": "42",
+      "asma": "Al Kariim",
+      "arab": "الْكَرِيمُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pemurah",
+      "en": "The Bountiful, the Generous"
+    },
+    {
+      "jilid": "43",
+      "asma": "Ar Raqiib",
+      "arab": "الرَّقِيبُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mengawasi",
+      "en": "The Watchful"
+    },
+    {
+      "jilid": "44",
+      "asma": "Al Mujiib",
+      "arab": "الْمُجِيبُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mengabulkan",
+      "en": "The Responsive, the Answerer"
+    },
+    {
+      "jilid": "45",
+      "asma": "Al Waasi’",
+      "arab": "الْوَاسِعُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Luas",
+      "en": "The Vast, the All Encompassing"
+    },
+    {
+      "jilid": "46",
+      "asma": "Al Hakiim",
+      "arab": "الْحَكِيمُ",
+      "id": "Yang Memiliki Mutlak sifat Maka Bijaksana",
+      "en": "The Wise"
+    },
+    {
+      "jilid": "47",
+      "asma": "Al Waduud",
+      "arab": "الْوَدُودُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pencinta",
+      "en": "The Loving, the Kind One"
+    },
+    {
+      "jilid": "48",
+      "asma": "Al Majiid",
+      "arab": "الْمَجِيدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mulia",
+      "en": "The All Glorious"
+    },
+    {
+      "jilid": "49",
+      "asma": "Al Baa’its",
+      "arab": "الْبَاعِثُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Membangkitkan",
+      "en": "The Raiser of the Dead"
+    },
+    {
+      "jilid": "50",
+      "asma": "As Syahiid",
+      "arab": "الشَّهِيدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Menyaksikan",
+      "en": "The Witness"
+    },
+    {
+      "jilid": "51",
+      "asma": "Al Haqq",
+      "arab": "الْحَقُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Benar",
+      "en": "The Truth, the Real"
+    },
+    {
+      "jilid": "52",
+      "asma": "Al Wakiil",
+      "arab": "الْوَكِيلُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Memelihara",
+      "en": "The Trustee, the Dependable"
+    },
+    {
+      "jilid": "53",
+      "asma": "Al Qawiyyu",
+      "arab": "الْقَوِيُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Kuat",
+      "en": "The Strong"
+    },
+    {
+      "jilid": "54",
+      "asma": "Al Matiin",
+      "arab": "الْمَتِينُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Kokoh",
+      "en": "The Firm, the Steadfast"
+    },
+    {
+      "jilid": "55",
+      "asma": "Al Waliyy",
+      "arab": "الْوَلِيُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Melindungi",
+      "en": "The Protecting Friend, Patron, and Helper"
+    },
+    {
+      "jilid": "56",
+      "asma": "Al Hamiid",
+      "arab": "الْحَمِيدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Terpuji",
+      "en": "The All Praiseworthy"
+    },
+    {
+      "jilid": "57",
+      "asma": "Al Mushii",
+      "arab": "الْمُحْصِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Mengkalkulasi",
+      "en": "The Accounter, the Numberer of All"
+    },
+    {
+      "jilid": "58",
+      "asma": "Al Mubdi’",
+      "arab": "الْمُبْدِئُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Memulai",
+      "en": "The Producer, Originator, and Initiator of all"
+    },
+    {
+      "jilid": "59",
+      "asma": "Al Mu’iid",
+      "arab": "الْمُعِيدُ",
+      "id": "Yang Memiliki Mutlak sifat MahaMengembalikan Kehidupan",
+      "en": "The Reinstater Who Brings Back All"
+    },
+    {
+      "jilid": "60",
+      "asma": "Al Muhyii",
+      "arab": "الْمُحْيِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Menghidupkan",
+      "en": "The Giver of Life"
+    },
+    {
+      "jilid": "61",
+      "asma": "Al Mumiitu",
+      "arab": "اَلْمُمِيتُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mematikan",
+      "en": "The Bringer of Death, the Destroyer"
+    },
+    {
+      "jilid": "62",
+      "asma": "Al Hayyu",
+      "arab": "الْحَيُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Hidup",
+      "en": "The Ever Living"
+    },
+    {
+      "jilid": "63",
+      "asma": "Al Qayyuum",
+      "arab": "الْقَيُّومُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mandiri",
+      "en": "The Self Subsisting Sustainer of All"
+    },
+    {
+      "jilid": "64",
+      "asma": "Al Waajid",
+      "arab": "الْوَاجِدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Penemu",
+      "en": "The Perceiver, the Finder, the Unfailing"
+    },
+    {
+      "jilid": "65",
+      "asma": "Al Maajid",
+      "arab": "الْمَاجِدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mulia",
+      "en": "The Illustrious, the Magnificent"
+    },
+    {
+      "jilid": "66",
+      "asma": "Al Wahiid",
+      "arab": "الْواحِدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Tunggal",
+      "en": "The One, The Unique, Manifestation of Unity"
+    },
+    {
+      "jilid": "67",
+      "asma": "Al ‘Ahad",
+      "arab": "اَلاَحَدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Esa",
+      "en": "The One, the All Inclusive, the Indivisible"
+    },
+    {
+      "jilid": "68",
+      "asma": "As Shamad",
+      "arab": "الصَّمَدُ",
+      "id": "Yang Memiliki Mutlak sifat MahaDibutuhkan, Tempat Meminta",
+      "en": "The Self Sufficient, the Impregnable,the Eternally Besought of All, the Everlasting"
+    },
+    {
+      "jilid": "69",
+      "asma": "Al Qaadir",
+      "arab": "الْقَادِرُ",
+      "id": "Yang Memiliki Mutlak sifat MahaMenentukan, Maha Menyeimbangkan",
+      "en": "The All Able"
+    },
+    {
+      "jilid": "70",
+      "asma": "Al Muqtadir",
+      "arab": "الْمُقْتَدِرُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Berkuasa",
+      "en": "The All Determiner, the Dominant"
+    },
+    {
+      "jilid": "71",
+      "asma": "Al Muqaddim",
+      "arab": "الْمُقَدِّمُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mendahulukan",
+      "en": "The Expediter, He who brings forward"
+    },
+    {
+      "jilid": "72",
+      "asma": "Al Mu’akkhir",
+      "arab": "الْمُؤَخِّرُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mengakhirkan",
+      "en": "The Delayer, He who puts far away"
+    },
+    {
+      "jilid": "73",
+      "asma": "Al Awwal",
+      "arab": "الأوَّلُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Awal",
+      "en": "The First"
+    },
+    {
+      "jilid": "74",
+      "asma": "Al Aakhir",
+      "arab": "الآخِرُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Akhir",
+      "en": "The Last"
+    },
+    {
+      "jilid": "75",
+      "asma": "Az Zhaahir",
+      "arab": "الظَّاهِرُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Nyata",
+      "en": "The Manifest; the All Victorious"
+    },
+    {
+      "jilid": "76",
+      "asma": "Al Baathin",
+      "arab": "الْبَاطِنُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Ghaib",
+      "en": "The Hidden; the All Encompassing"
+    },
+    {
+      "jilid": "77",
+      "asma": "Al Waali",
+      "arab": "الْوَالِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Memerintah",
+      "en": "The Patron"
+    },
+    {
+      "jilid": "78",
+      "asma": "Al Muta’aalii",
+      "arab": "الْمُتَعَالِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Tinggi",
+      "en": "The Self Exalted"
+    },
+    {
+      "jilid": "79",
+      "asma": "Al Barri",
+      "arab": "الْبَرُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Penderma",
+      "en": "The Most Kind and Righteous"
+    },
+    {
+      "jilid": "80",
+      "asma": "At Tawwaab",
+      "arab": "التَّوَابُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Penerima Tobat",
+      "en": "The Ever Returning, Ever Relenting"
+    },
+    {
+      "jilid": "81",
+      "asma": "Al Muntaqim",
+      "arab": "الْمُنْتَقِمُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Penuntut Balas",
+      "en": "The Avenger"
+    },
+    {
+      "jilid": "82",
+      "asma": "Al Afuww",
+      "arab": "العَفُوُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pemaaf",
+      "en": "The Pardoner, the Effacer of Sins"
+    },
+    {
+      "jilid": "83",
+      "asma": "Ar Ra`uuf",
+      "arab": "الرَّؤُوفُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pengasih",
+      "en": "The Compassionate, the All Pitying"
+    },
+    {
+      "jilid": "84",
+      "asma": "Malikul Mulk",
+      "arab": "مَالِكُ الْمُلْكِ",
+      "id": "Yang Memiliki Mutlak sifatPenguasa Kerajaan (Semesta)",
+      "en": "The Owner of All Sovereignty"
+    },
+    {
+      "jilid": "85",
+      "asma": "Dzul JalaaliWal Ikraam",
+      "arab": "ذُوالْجَلاَلِوَالإكْرَامِ",
+      "id": "Yang Memiliki Mutlak sifat PemilikKebesaran dan Kemuliaan",
+      "en": "The Lord of Majesty and Generosity"
+    },
+    {
+      "jilid": "86",
+      "asma": "Al Muqsith",
+      "arab": "الْمُقْسِطُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Adil",
+      "en": "The Equitable, the Requiter"
+    },
+    {
+      "jilid": "87",
+      "asma": "Al Jamii’",
+      "arab": "الْجَامِعُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mengumpulkan",
+      "en": "The Gatherer, the Unifier"
+    },
+    {
+      "jilid": "88",
+      "asma": "Al Ghaniyy",
+      "arab": "الْغَنِيُّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Berkecukupan",
+      "en": "The All Rich, the Independent"
+    },
+    {
+      "jilid": "89",
+      "asma": "Al Mughnii",
+      "arab": "الْمُغْنِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Memberi Kekayaan",
+      "en": "The Enricher, the Emancipator"
+    },
+    {
+      "jilid": "90",
+      "asma": "Al Maani",
+      "arab": "اَلْمَانِعُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Mencegah",
+      "en": "The Withholder, the Shielder, the Defender"
+    },
+    {
+      "jilid": "91",
+      "asma": "Ad Dhaar",
+      "arab": "الضَّارَّ",
+      "id": "Yang Memiliki Mutlak sifat Maha Memberi Derita",
+      "en": "The Distressor, the Harmer"
+    },
+    {
+      "jilid": "92",
+      "asma": "An Nafii’",
+      "arab": "النَّافِعُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Memberi Manfaat",
+      "en": "The Propitious, the Benefactor"
+    },
+    {
+      "jilid": "93",
+      "asma": "An Nuur",
+      "arab": "النُّورُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Bercahaya(Menerangi, Memberi Cahaya)",
+      "en": "The Light"
+    },
+    {
+      "jilid": "94",
+      "asma": "Al Haadii",
+      "arab": "الْهَادِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Pemberi Petunjuk",
+      "en": "The Guide"
+    },
+    {
+      "jilid": "95",
+      "asma": "Al Baadii",
+      "arab": "الْبَدِيعُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pencipta",
+      "en": "Incomparable, the Originator"
+    },
+    {
+      "jilid": "96",
+      "asma": "Al Baaqii",
+      "arab": "اَلْبَاقِي",
+      "id": "Yang Memiliki Mutlak sifat Maha Kekal",
+      "en": "The Ever Enduring and Immutable"
+    },
+    {
+      "jilid": "97",
+      "asma": "Al Waarits",
+      "arab": "الْوَارِثُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pewaris",
+      "en": "The Heir, the Inheritor of All"
+    },
+    {
+      "jilid": "98",
+      "asma": "Ar Rasyiid",
+      "arab": "الرَّشِيدُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Pandai",
+      "en": "The Guide, Infallible Teacher, and Knower"
+    },
+    {
+      "jilid": "99",
+      "asma": "As Shabuur",
+      "arab": "الصَّبُورُ",
+      "id": "Yang Memiliki Mutlak sifat Maha Sabar",
+      "en": "The Patient"
+    }
+  ]
+}
